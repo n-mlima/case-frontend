@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": "b2be55ca-5d13-44c0-94b0-428a484c7f34",
+      "person": "Nailson Lima",
+      "userName": "nailson",
+      "dataBirtday": "02/07/1995",
+      "email": "nailsonk2@gmail.com",
+      "password": "12345"
+    }
+  ],
+  "room": [
+    {
+      "id": "id-Teste",
+      "nameRoom": "Teste",
+      "data": "13/02/2024",
+      "description": "bla bla bla",
+      "usuario": "nailson",
+      "author": "Nailson Lima",
+      "privacy": "Público",
+      "invite": ""
+    },
+    {
+      "id": "id-Teste 2",
+      "nameRoom": "Teste 2",
+      "data": "13/02/2024",
+      "description": "bla bla bla",
+      "usuario": "nailson",
+      "author": "Nailson Lima",
+      "privacy": "Privado",
+      "invite": "l0Gc"
+    },
+    {
+      "id": "6eb02ce0-a41b-4f73-88f4-803f900c4859",
+      "nameRoom": "Teste 3",
+      "data": "13/02/2024",
+      "description": "bla bla",
+      "usuario": "nailson",
+      "author": "Nailson Lima",
+      "privacy": "Público",
+      "invite": ""
+    }
+  ]
+}
